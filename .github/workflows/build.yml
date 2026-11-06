@@ -1,0 +1,49 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - release
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        platform: [macos-latest, ubuntu-22_04, windows-latest]
+
+    runs-on: ${{ matrix.platform }}
+
+    steps:
+      - name: 依存関係のチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.jsのセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Rustのセットアップ
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Rustキャッシュの適用
+        uses: Swatinem/rust-cache@v2
+
+      - name: Linux依存関係のインストール
+        if: matrix.platform == 'ubuntu-22_04'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libwebkit2gtk-4.0-dev \
+            libwebkit2gtk-4.1-dev \
+            libappindicator3-dev \
+            librsvg2-dev \
+            patchelf
+
+      - name: 依存関係のインストール
+        run: npm i
+
+      - name: Tauriビルドの実行
+        run: npm tauri build
