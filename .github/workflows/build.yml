@@ -46,4 +46,4 @@ jobs:
         run: npm i
 
       - name: Tauriビルドの実行
-        run: npm tauri build
+        run: npx tauri build
