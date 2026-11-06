@@ -1,0 +1,37 @@
+{{Infobox quest
+|image        =Only businessBanner.png
+|location     =[[Ground Zero]]
+|given by     =[[Ragman]]
+|previous     =[[Ask for Directions]]
+|leads to     =[[Battery Change]]
+|related      =
+|related2     =
+|reqkappa     =<font color="green">No</font>
+}}
+
+'''{{PAGENAME}}''' is a [[Quests|Quest]] in ''[[Escape from Tarkov]]''.
+
+==Dialogue==
+{{quote|I told you the driver knows the right paths! That's where I'll send the shipment, although I don't have time for that at present. First I have to deal with those who killed my couriers. I already found the culprits, so now it's for Ragman to send his regards. I can't do anything to help the driver until this matter is handled. That's why I suggest you take care of it. Quicker you start, quicker you finish.}}
+
+==Objectives==
+* Eliminate 7 [[Scavs]] in one raid on [[Ground Zero]]
+* Survive and extract from the location
+
+==Rewards==
+* +24,100 [[EXP]]
+* [[Ragman]] Rep <font color="green">'''+0.03'''</font>
+* 124,000 Roubles
+** 130,200 Roubles with [[Hideout#Modules|Intelligence Center]] Level 1
+** 142,600 Roubles with [[Hideout#Modules|Intelligence Center]] Level 2
+* 1× [[IOTV Gen4 body armor (Assault Kit, MultiCam)]]
+{{quote|That's great! Now there is nothing to interfere with my operations, and we can think about expansion. For now, I need to figure out how to prepare for the BTR coming under my roof. Just be patient for a little longer.}}
+
+==Guide==
+In this quest you have to eliminate 7 [[Scavs]] on [[Ground Zero]] in a single raid and survive. 
+
+{{Navbox quests}}
+[[Category:Quests]]
+
+[[fr:Stabiliser les affaires]]
+[[ru:Стабилизировать бизнес]]

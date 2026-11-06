@@ -1,0 +1,189 @@
+You will find many ammunition types within the chaos of [[Tarkov]]. Varying opponents will require different types of ammunition to tackle.
+
+This page lists all '''ammunition''' types in ''[[Escape from Tarkov]]''. Click the name of a caliber to see the full list of available cartridges.
+
+To learn more about the effectiveness of ammunition check the [[Ballistics]] page.
+
+==Pistol cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:TT 7.62x25.gif|link=7.62x25mm Tokarev]]
+|[[7.62x25mm Tokarev]]
+|Pistols: [[TT-33]], [[TT-33 (Golden)]]<br/>SMGs: [[PPSh-41]]
+|-
+|[[File:9x18 PM.gif|link=9x18mm Makarov]]
+|[[9x18mm Makarov]]
+|Pistols: [[APB]], [[APS]], [[PB]], [[PM]], [[PM(t)]]<br/>SMGs: [[PP-9 Klin]], [[PP-91 Kedr]], [[PP-91-01 Kedr-B]]
+|-
+|[[File:9x19 para.gif|link=9x19mm Parabellum]]
+|[[9x19mm Parabellum]]
+|Pistols: [[Glock 17]], [[Glock 18C]], [[Glock 19X]], [[M9A3]], [[MP-443 Grach]], [[P226R]], [[PL-15]]<br/>Revolvers: [[CR 200DS]]<br/>SMGs: [[MP5]], [[MP5K-N]], [[MP9]], [[MP9-N]], [[MPX]], [[PP-19-01]], [[Saiga-9]], [[STM-9]], [[UZI]], [[UZI PRO Pistol]], [[UZI PRO SMG]], [[Vector 9x19]]
+|-
+|[[File:9x21 gyurza.gif|link=9x21mm Gyurza]]
+|[[9x21mm Gyurza]]    
+|Pistols: [[SR-1MP]]<br/>SMGs: [[SR-2M]]
+|-
+|[[File:357 anime.gif|link=.357 Magnum]]
+|[[.357 Magnum]]
+|Pistols: [[Desert Eagle L5 .357]]<br/>Revolvers: [[CR 50DS]]
+|-
+|[[File:.45 Icon.gif|link=.45 ACP]]
+|[[.45 ACP]]
+|Pistols: [[M1911A1]], [[M45A1]], [[USP .45]]<br/>SMGs: [[UMP 45]], [[Vector .45]]
+|-
+|[[File:.50 AE Icon.gif|link=.50 Action Express]]
+|[[.50 Action Express]]
+|Pistols: [[Desert Eagle L5 .50 AE]], [[Desert Eagle L6 .50 AE]], [[Desert Eagle L6 .50 AE (WTS)]], [[Desert Eagle Mk XIX .50 AE]]
+|-
+|[[File:20x1mm disk icon.png|link=20x1mm]]
+|[[20x1mm]]
+|Pistols: [[Blicky]]
+|}
+
+==PDW cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:4.6x30.gif|link=4.6x30mm HK]]
+|[[4.6x30mm HK]]
+|SMGs: [[MP7A1]], [[MP7A2]]
+|-
+|[[File:5.7x28.gif|link=5.7x28mm FN]]
+|[[5.7x28mm FN]]
+|Pistols: [[FN 5-7]]<br/>SMGs: [[P90]], [[P90 Scourge]]
+|}
+
+==Rifle cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:5.45x39.gif|link=5.45x39mm]]
+|[[5.45x39mm]]
+|Assault carbines: [[SAG AK]], [[SAG AK Short]]<br/>Assault rifles: [[AK-12]], [[AK-105]], [[AK-74]], [[AK-74M]], [[AK-74N]], [[AKS-74]], [[AKS-74N]], [[AKS-74U]], [[AKS-74UB]], [[AKS-74UN]], [[NL545 DI]], [[NL545 GP]]<br/>LMGs: [[RPK-16]]
+|-
+|[[File:5.56x45 NATO.gif|link=5.56x45mm NATO]]
+|[[5.56x45mm NATO]]
+|Assault carbines: [[ADAR 2-15]], [[TX-15 DML]]<br/>Assault rifles: [[AK-101]], [[AK-102]], [[AUG A1]], [[AUG A3]], [[DT MDR 5.56x45]], [[G36]], [[HK 416A5]], [[M16A1]], [[M16A2]], [[M4A1]], [[Radian Model 1]], [[SCAR-L]], [[Type 20]]
+|-
+|[[File:5.8x42mm.gif|link=5.8x42mm]]
+|[[5.8x42mm]]
+|Assault rifles: [[QBZ-191]]
+|-
+|[[File:6.8x51mm.gif|link=6.8x51mm]]
+|[[6.8x51mm]]
+|Assault rifles: [[MCX-SPEAR]]
+|-
+|[[File:300 BlackoutAmmo.gif|link=.300 Blackout]]
+|[[.300 Blackout]]
+|Assault rifles: [[MCX]], [[Velociraptor]]
+|-
+|[[File:7.62x39.gif|link=7.62x39mm]]
+|[[7.62x39mm]]
+|Assault carbines: [[OP-SKS]], [[SKS]], [[VPO-136]]<br/>Assault rifles: [[AK-103]], [[AK-104]], [[AKM]], [[AKMN]], [[AKMS]], [[AKMSN]], [[Mk47]], [[RD-704]]<br/>LMGs: [[RPD]], [[RPDN]]
+|-
+|[[File:7.62x51 NATO.gif|link=7.62x51mm NATO]]
+|[[7.62x51mm NATO]]
+|Assault carbines: [[RFB]], [[VPO-101]]<br/>Assault rifles: [[AK-308]], [[DT MDR 7.62x51]], [[SA58]], [[SCAR-H]]<br/>Bolt-action rifles: [[DVL-10]], [[M700]], [[T-5000M]]<br/>DMRs: [[G28]], [[M1A]], [[RSASS]], [[SR-25]]<br/>LMGs: [[M60E4]], [[M60E6]]
+|-
+|[[File:.308 Merlin Express Icon.gif|link=.308 Marlin Express]]
+|[[.308 Marlin Express]]
+|Bolt-action rifles: [[Marlin MXLR]]
+|-
+|[[File:7.62x54R.gif|link=7.62x54mmR]]
+|[[7.62x54mmR]]
+|Assault carbines: [[AVT-40]], [[SVT-40]]<br/>Bolt-action rifles: [[Mosin Infantry]], [[Mosin Sniper]], [[SV-98]]<br/>DMRs: [[SVDS]]<br/>LMGs: [[PKM]], [[PKP]]<br/>Shotguns: [[MP-18]]
+|-
+|[[File:338 lapua.gif|link=.338 Lapua Magnum]]
+|[[.338 Lapua Magnum]]
+|Bolt-action rifles: [[AXMC]], [[TRG M10]]<br/>DMRs: [[Mk-18]]
+|-
+|[[File:9x39.gif|link=9x39mm]]
+|[[9x39mm]]
+|Assault carbines: [[9A-91]], [[AS VAL MOD.4]], [[SR-3M]], [[VSK-94]]<br/>Assault rifles: [[AS VAL]]<br/>DMRs: [[VSS]]
+|-
+|[[File:9.3x64mm.gif|link=9.3x64mm]]
+|[[9.3x64mm]]
+|DMRs: [[TKPD]]
+|-
+|[[File:.366 TKM.gif|link=.366 TKM]]
+|[[.366 TKM]]
+|Assault carbines: [[VPO-209]]<br/>Bolt-action rifles: [[VPO-215]]
+|-
+|[[File:12.7x55.gif|link=12.7x55mm]]
+|[[12.7x55mm]]
+|Revolvers: [[RSh-12]]<br/>Assault rifles: [[ASh-12]]
+|-
+|[[File:.50 BMG.gif|link=.50 BMG]]
+|[[.50 BMG]]
+|DMRs: [[AK-50]]
+|-
+|[[File:FIFTY.gif|link=12.7x108mm]]
+|[[12.7x108mm]]
+|HMGs: [[NSV Utyos]]
+|}
+
+==Shotgun cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:12x70.gif|link=12/70]]
+|[[12/70]]
+|[[AA-12 Gen 1]], [[AA-12 Gen 2]], [[M3 Super 90]], [[M590A1]], [[M870]], [[MP-133]], [[MP-153]], [[MP-155]], [[MP-43-1C]], [[MP-43 sawed-off]], [[MTs-255-12]], [[Saiga-12K]], [[Saiga-12K FA]], [[Saiga-12K FA RL]]
+|-
+|[[File:20-70.gif|link=20/70]]
+|[[20/70]]
+|[[TOZ-106]]
+|-
+|[[File:23x75.gif|link=23x75mmR]]
+|[[23x75mmR]]
+|[[KS-23M]]
+|}
+
+==Grenade launcher cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:VOG-30 icon.png|link=30x29mm]]
+|[[30x29mm]]
+|[[AGS-30]]
+|-
+|[[File:40x46mm.gif|link=40x46mm]]
+|[[40x46mm]]
+|[[FN40GL]], [[M203]], [[M32A1]]
+|-
+|[[File:40 VOG-25.png|link=40x53mm]]
+|[[40x53mm]]
+|[[GP-25]]
+|}
+
+==Flare cartridges==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Used by
+|-
+|[[File:26x75mm.gif|link=26x75mm]]
+|[[26x75mm]]
+|Signal pistols: [[SP-81]]
+|}
+
+{{Navbox rounds}}
+[[Category:Ammunition]]
+
+[[cs:Munice]]
+[[de:Munition]]
+[[fr:Munitions]]
+[[ko:탄약(Ammunition)]]
+[[ru:Боеприпасы]]
+[[zh:彈藥]]

@@ -1,0 +1,39 @@
+{{Infobox quest
+|image           =DebutQuestPicture.png
+|icon            =
+|given by        =[[Prapor]]
+|location        =[[Customs]], [[Ground Zero]], [[Interchange]], [[Woods]]
+|LL requirement  =1
+|LL quests       =
+|previous        =
+|leads to        =
+|related         =
+}}
+
+'''{{PAGENAME}}''' is a [[Quests|Quest]] in ''[[Escape from Tarkov]]''.
+
+==Dialogue==
+{{quote|Hello there, soldier. I got a job that's a little too easy for my guys. But you'll do fine. Hey, don't get pissy, I don't know you that well yet to give you a normal job! The streets are crawling with lowlife bandits. They don't bother me much, but they're still a nuisance all the same. Calm down, say, five of them. I think that'll be enough for you. Dismissed, soldier!}}
+
+==Objectives==
+* Eliminate 5 [[Scavs]] on [[Woods]], [[Ground Zero]], [[Interchange]], or [[Customs]]
+
+==Rewards==
+* +3,000 [[EXP]]
+* [[Prapor]] Rep <font color="green">'''+0.1'''</font>
+* 80,000 Roubles
+** 84,000 Roubles with [[Hideout#Modules|Intelligence center]] Level 1
+** 92,000 Roubles with [[Hideout#Modules|Intelligence center]] Level 2
+{{quote|So, you got it done. Can't say I'm surprised, but it's always worth making sure!}}
+
+==Guide==
+In this quest you have to kill 5 [[Scavs]] on [[Woods]], [[Ground Zero]], [[Interchange]] or [[Customs]].
+
+{{Navbox quests}}
+[[Category:Quests]]
+
+[[cs:Debut]]
+[[de:Debüt]]
+[[fr:Première fois]]
+[[pt-br:Estréia]]
+[[ru:Проба пера]]

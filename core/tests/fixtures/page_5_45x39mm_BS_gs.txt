@@ -1,0 +1,51 @@
+{{Infobox ammo
+|image              =47BSIMAGE.png
+|image size         =
+|icon               =74BSICON.png
+|type               =Round
+|slot               =
+|weight             =0.01 kg
+|grid               =1x1
+|price              =
+|trader             =
+|repair             =
+|velocity           =830 m/s
+|damage             =45
+|accuracy           =<font color="red">-4</font>
+|recoil             =<font color="red">+10</font>
+|distance           =
+|projectiles        =
+|penetration chance =
+|penetration        =54
+|armor damage       =57
+|ricochet           =38% 
+|l bleed chance     =
+|h bleed chance     = 
+|durability burn    =<font color="red">+45</font>
+|heat               =<font color="red">+69.9</font>
+|feedfailure        =<font color="red">High</font>
+|misfire            =<font color="green">Low</font>
+|effects            =
+|loot xp            =
+|exam xp            =
+|mods               =
+|node               =56dff026d2720bb8668b4567
+|id                 =patron_545x39_BS
+}}
+
+'''{{PAGENAME}}''' (BS) is a [[5.45x39mm|5.45x39mm ammunition]] type in ''[[Escape from Tarkov]]''.
+
+==Description==
+A 5.45x39mm BS gs (GRAU Index - 7N24) cartridge with a 4.1 gram armor-piercing bullet with a pointed tungsten carbide core over a lead base with a bimetallic jacket, in a steel case. This BS bullet (Broneboynyy Serdechnik - "Armor-piercing Core") was developed by TsNIITochMash in 1998 to greatly increase the penetration capabilities of Russian 5.45x39mm caliber weapons, by being able to pierce basic and intermediate ballistic body protections in addition to provide outstanding results against some specialized protection models, despite having a relatively low muzzle velocity compared to other cartridges. However, due to its design, it has a high bounce probability off various surfaces.
+
+==Notes==
+* Cannot be listed for sale on the flea market.
+
+{{Navbox rounds}}
+[[Category:5.45x39mm ammunition]]
+[[Category:Rounds]]
+
+[[ru:5.45x39мм БС гс]]
+[[fr:5,45 x 39 mm BS gs]]
+[[de:5,45 x 39 mm BS]]
+[[zh:5.45x39毫米 BS gs]]

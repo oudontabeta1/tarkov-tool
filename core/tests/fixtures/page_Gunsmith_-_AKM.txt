@@ -1,0 +1,109 @@
+{{Infobox quest
+|icon            =
+|image           =GunSmithPart8Banner.png
+|location        =
+|given by        =[[Mechanic]]
+|LL requirement  =3
+|LL quests       =
+|previous        =
+|leads to        =
+|related         =
+|related2        =
+|reqkappa        =<font color="red">Yes</font>
+}}
+
+'''{{PAGENAME}}''' is a [[Quests|Quest]] in ''[[Escape from Tarkov]]''.
+
+==Dialogue==
+{{quote|Good day, mercenary. I've got another job for you. One of my regular clients is looking for an AKM fitted with a Fortis Shift foregrip, a suppressor, and a 30-round Magpul magazine. It also needs ergonomics at or above 25, combined recoil below 400, and a sighting range of at least 800. Think you can handle it? There's no rush, but I'd rather not keep the client waiting too long.}}
+
+==Requirements==
+* This quest is only obtainable by [[BEAR]] PMCs.
+
+==Objectives==
+* Modify an [[AKM]] to comply with the given specifications
+
+==Rewards==
+* +28,000 [[EXP]]
+* [[Mechanic]] Rep <font color="green">'''+0.75'''</font>
+* 275,000 Roubles
+** 288,750 Roubles with [[Hideout#Modules|Intelligence Center]] Level 1
+** 316,250 Roubles with [[Hideout#Modules|Intelligence Center]] Level 2
+{{quote|Comfortable to handle, and expertly put together. Thank you. I'll let the client know their weapon is ready for pickup.}}
+
+==Guide==
+[[AKM]] specifications:
+* 60 Durability
+* 400 or less recoil
+* 25 or more ergonomics
+* 800 or greater sighting range
+* A silencer
+* [[Fortis Shift tactical foregrip]]
+* [[AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine]] (Black)
+
+==Build==
+'''This is one example of many possible configurations.'''
+====<font color="red">Notes:</font>====
+* This build is based on a standard [[AKM]] from [[Prapor]] LL2.
+* The [[Fortis Shift tactical foregrip]] can also be obtained through the [[MPX]] (MQB variant) barter at [[Mechanic]] LL1.
+* The quest check mark is not consistent even when all requirements are met, it not being present doesn't mean the gun can't be handed over.
+<div style="display:table"><tabber>Shopping List=
+<div class="mobileonly">'''Shopping List'''</div>
+{| class="wikitable sortable"
+!Icon
+!Attachment
+!Sold By
+!Loyalty Level
+|-
+![[File:PolymerAK100ForegripIcon.png|link=AK 100-series polymer handguard]]
+|[[AK 100-series polymer handguard]]
+|[[Prapor]]
+|LL1
+|-
+![[File:Fortisshifticon.png|link=Fortis Shift tactical foregrip]]
+|[[Fortis Shift tactical foregrip]]
+|[[Peacekeeper]]
+|LL3
+|-
+![[File:hybridmount.png|link=SilencerCo Hybrid 46 Direct Thread Mount adapter]]
+|[[SilencerCo Hybrid 46 Direct Thread Mount adapter]]
+|<br/>[[Mechanic]]<hr>[[Peacekeeper]]
+|LL1 (Barter)<br/>LL2<hr>LL2
+|-
+![[File:hybrid46icon.png|link=SilencerCo Hybrid 46 multi-caliber sound suppressor]]
+|[[SilencerCo Hybrid 46 multi-caliber sound suppressor]]
+|[[Peacekeeper]]<hr/>[[Mechanic]] 
+|LL2<hr/>LL2 (Barter)
+|-
+![[File:pmag30rndakmicon.png|link=AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine]]
+|[[AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine]] (Black)
+|[[Peacekeeper]]
+|LL2
+|-
+![[File:AKademia Bastion dust cover for AK.PNG|link=AK AKademia Bastion dust cover]]
+|[[AK AKademia Bastion dust cover]]
+|[[Skier]]
+|LL1
+|-
+![[File:Romeo7_Proto_Icon.png|link=SIG Sauer ROMEO7 1x30 reflex sight (Prototype)]]
+|[[SIG Sauer ROMEO7 1x30 reflex sight (Prototype)]]
+|[[Skier]]
+|LL1
+|-
+|}
+|-|Inspect View=
+<div class="mobileonly">'''Inspect View'''</div>
+[[File:Gunsmith-Pt 8 Inspect View.png|link={{filepath:Gunsmith-Pt 8 Inspect View.png}}]]
+|-|Modding Screen=
+<div class="mobileonly">'''Modding Screen'''</div>
+[[File:Gunsmith8AKM.png|800px|link={{filepath:Gunsmith8AKM.png}}]]
+</tabber></div>
+
+{{Navbox quests}}
+[[Category:Quests]]
+
+[[cs:Puškař - Část 6]]
+[[de:Büchsenmacher - Teil 6]]
+[[fr:Armurier - Partie 6]]
+[[ru:Оружейник. Часть 6]]
+[[zh:槍匠 第6回]]

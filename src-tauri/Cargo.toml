@@ -1,0 +1,16 @@
+[package]
+name = "tarkov-helper"
+version = "0.1.0"
+description = "Escape from Tarkov support app (tasks, ammo, provisions, medical) fed from the Fandom wiki"
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-opener = "2"
+percent-encoding = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tarkov-core = { path = "../core" }

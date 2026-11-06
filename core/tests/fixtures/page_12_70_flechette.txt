@@ -1,0 +1,62 @@
+{{Infobox ammo
+|image              =12-70 Flechette.png
+|image size         =
+|icon               =12-70 Flechette icon.png
+|type               =Buckshot
+|slot               =
+|weight             =0.04 kg
+|grid               =1x1
+|price              =₽75
+|trader             =[[Jaeger]] LL3
+|repair             =
+|velocity           =320 m/s
+|damage             =25
+|accuracy           =<font color="red">-10</font>
+|recoil             =
+|distance           =
+|projectiles        =8
+|penetration chance =
+|penetration        =31
+|armor damage       =26
+|ricochet           =0%
+|l bleed chance     =<font color="green">+25</font>
+|h bleed chance     =<font color="green">+25</font>
+|durability burn    =<font color="red">+60</font>
+|heat               =<font color="red">+115.9</font>
+|feedfailure        =<font color="green">Very low</font>
+|misfire            =<font color="yellow">Medium</font>
+|effects            =Subsonic
+|loot xp            =0
+|exam xp            =10
+|mods               =
+|node               =5d6e6911a4b9361bd5780d52
+|id                 =patron_12x70_flechette
+}}
+
+The '''{{PAGENAME}}''' (Flechette) is a [[12/70|12/70 ammunition]] type in ''[[Escape from Tarkov]]''.
+
+==Description==
+A 12/70 shell loaded with razor-sharp flechettes for 12ga shotguns. Far from being the most effective round, but believe us - you definitely don't want to be on the receiving end of the weapon loaded with it.
+
+==Notes== 
+* Cannot be listed for sale on the flea market.
+
+==Crafting==
+{|class="wikitable"
+|-
+![[File:Fierce blow sledgehammer tool.png|frameless|link=Fierce Blow sledgehammer]] x1<br/>[[Fierce Blow sledgehammer]]<br/>+<br/>[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2<br/>[[Gunpowder "Eagle"]]<br/>+<br/>[[File:Nailsicon.png|frameless|link=Pack of nails]] x3<br/>[[Pack of nails]]
+!<big>→</big>
+!<big>[[Hideout#Modules|Workbench level 1]]</big><br/>50 minutes<hr/>After completing [[Skier]]'s task<br/>???
+!<big>→</big>
+![[File:12-70 Flechette icon.png|frameless|link=12/70 flechette]] x40<br/>[[12/70 flechette]]
+|}
+
+{{Navbox rounds}}
+[[Category:12/70 ammunition]]
+[[Category:Rounds]]
+
+[[fr:12/70 Fléchettes]]
+[[de:12/70 Flechette]]
+[[cs:12/70 flechette]]
+[[ru:12/70 флешетта]]
+[[zh:12/70 鉛徑 碎刀彈]]

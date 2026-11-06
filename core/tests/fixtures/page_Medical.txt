@@ -1,0 +1,580 @@
+'''{{PAGENAME}}''' items are used to replenish [[Health system|health]], restore destroyed limbs and remove negative or grant positive conditions and include medical items and injectors.
+
+==Medical items==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Type
+!Buffs
+!Debuffs
+!Use Time (s)
+!Uses
+!HP Pool
+!Max. HP heal/use
+|-
+![[File:EFT Painkillers Icon.png|link=Analgin painkillers]]
+![[Analgin painkillers]]
+|Pills
+|Removes: [[File:Pain.png|46px|Pain]] for 95 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 95 seconds
+|
+!3
+!4
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:EFT Augmentin-antibiotic-pills Icon.png|link=Augmentin antibiotic pills]]
+![[Augmentin antibiotic pills]]
+|Pills
+|Removes:
+*[[File:Pain.png|46px|Pain]] for 155 seconds
+Adds:
+*[[File:On Painkillers.png|46px|On Painkillers]] for 155 seconds
+*Energy (<font color="green">+5</font>)<br/><br/>
+'''1s Delay; 300s Duration:'''
+*Increases [[Immunity]] (<font color="green">+1</font>)
+|Adds: Hydration (<font color="red">-5</font>)
+!5
+!1
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:Ibuprofen painkiller icon.png|link=Ibuprofen painkillers]]
+![[Ibuprofen painkillers]]
+|Pills
+|Removes:
+*[[File:Contusion.png|46px|Concussion]]
+*[[File:Pain.png|46px|Pain]] for 290 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 290 seconds
+|Adds: Hydration (<font color="red">-17</font>)
+!5
+!8
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:EFT Vaseline Icon.png|link=Vaseline balm]]
+![[Vaseline balm]]
+|Injury treatment
+|Removes: [[File:Pain.png|46px|Pain]] for 350 seconds
+Adds:[[File:On Painkillers.png|46px|On Painkillers]] for 350 seconds
+|Adds:
+*Energy (<font color="red">-9</font>)
+*Hydration (<font color="red">-9</font>)
+!6
+!3
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:Golden Star Balm Icon.png|link=Golden Star balm]]
+![[Golden Star balm]]
+|Injury treatment
+|Removes:
+*[[File:Contusion.png|46px|Concussion]]
+*[[File:Pain.png|46px|Pain]] for 370 seconds
+*Radiation Exposure for 420 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 370 seconds<br/><br/>
+'''1s Delay; 5s Duration:'''
+*Increases energy recovery (<font color="green">+1</font>/s)
+*Increases hydration recovery (<font color="green">+1</font>/s)
+|Adds: Energy (<font color="red">-19</font>)<br/><br/>
+'''1s Delay; 5s Duration:'''
+*Causes [[File:Contusion.png|46px|Concussion]]
+!7
+!5
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:EFT Splint Icon.png|link=Immobilizing splint]]
+![[Immobilizing splint]]
+|Injury treatment
+|Removes:[[File:Fracture.png|46px|Fracture]]
+|
+!5
+!1
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:AluSplintIcon.png|link=Aluminum splint]]
+![[Aluminum splint]]
+|Injury treatment
+|Removes:[[File:Fracture.png|46px|Fracture]]
+|
+!3
+!3
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:Tigzresq splint icon.png|link=Tigzresq splint]]
+![[Tigzresq splint]]
+|Injury treatment
+|Removes:[[File:Fracture.png|46px|Fracture]]
+|
+!3
+!7
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:CMS Icon.png|link=CMS surgical kit]]
+![[CMS surgical kit]]
+|Injury treatment
+|Removes: Destroyed body part (except head and thorax)
+Adds: 25%-45% of maximum part HP
+|
+!16
+!3
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:Surv12 icon.png|link=Surv12 field surgical kit]]
+![[Surv12 field surgical kit]]
+|Injury treatment
+|Removes:
+*[[File:Fracture.png|46px|Fracture]]
+*Destroyed body part (except head and thorax)
+Adds: 60%-72% of maximum part HP
+|
+!20
+!9
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:EFT Aseptic-Bandage Icon.png|link=Aseptic bandage]]
+![[Aseptic bandage]]
+|Injury treatment
+|Removes:[[File:Bleeding.png|46px|Light bleeding]]
+|
+!2
+!1
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:EFT Army-Bandage Icon.png|link=Army bandage]]
+![[Army bandage]]
+|Injury treatment
+|Removes:[[File:Bleeding.png|46px|Light bleeding]]
+|
+!2
+!2
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:TournIcon.png|link=Esmarch tourniquet]]
+![[Esmarch tourniquet]]
+|Injury treatment
+|Removes: [[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]]
+!5
+!1
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:Hemostatic tourniquet CAT.png|link=CAT hemostatic tourniquet]]
+![[CAT hemostatic tourniquet]]
+|Injury treatment
+|Removes: [[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]]
+!3
+!1
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:HemostaticIcon.png|link=CALOK-B hemostatic applicator]]
+![[CALOK-B hemostatic applicator]]
+|Injury treatment
+|Removes: [[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]]
+!3
+!3
+!<font color="yellow">0</font>
+!<font color="yellow">0</font>
+|-
+![[File:AI-2 Icon.png|link=AI-2 medkit]]
+![[AI-2 medkit]]
+|Medkit
+|Removes: Radiation Exposure
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|
+!2
+!
+!100
+!50
+|-
+![[File:EFT Car-first-aid-kit Icon.png|link=Car first aid kit]]
+![[Car first aid kit]]
+|Medkit
+|Removes:[[File:Bleeding.png|46px|Light bleeding]]
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|
+!3
+!
+!220
+!70
+|-
+![[File:EFT Salewa-First-Aid-Kit Icon 2.png|link=Salewa first aid kit]]
+![[Salewa first aid kit]]
+|Medkit
+|Removes:[[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]]
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding
+!3
+!
+!400
+!85
+|-
+![[File:EFT IFAK Icon.png|link=IFAK individual first aid kit]]
+![[IFAK individual first aid kit]]
+|Medkit
+|Removes:[[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]], Radiation Exposure
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding
+!3
+!
+!300
+!50
+|-
+![[File:AFAK first aid.png|link=AFAK tactical individual first aid kit]]
+![[AFAK tactical individual first aid kit]]
+|Medkit
+|Removes:[[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]], Radiation Exposure
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding
+!3
+!
+!400
+!60
+|-
+![[File:EFT Grizzly Icon.png|link=Grizzly medical kit]]
+![[Grizzly medical kit]]
+| Medkit
+|Removes:[[File:Contusion.png|46px|Concussion]][[File:Fracture.png|46px|Fracture]][[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]], Radiation exposure
+Adds:[[File:Restores HP.png|46px|Restores HP]]
+|Causes: [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding
+!5
+!
+!1800
+!175
+|}
+
+==Injectors and stimulants==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Type
+!Buffs
+!Debuffs
+!Use Time (s)
+|-
+![[File:EFT Morphine Icon.png|link=Morphine injector]]
+![[Morphine injector]]
+|Painkiller
+|Removes:
+*[[File:Contusion.png|46px|Concussion]]
+*[[File:Pain.png|46px|Pain]] for 305 seconds
+*Adds:[[File:On Painkillers.png|46px|On Painkillers]] for 305 seconds
+|Adds:
+*Energy (<font color="red">-10</font>)
+*Hydration (<font color="red">-15</font>)
+!2
+|-
+![[File:L1 (Norepinephrine) Icon.png|link=L1 (Norepinephrine) injector]]
+![[L1 (Norepinephrine) injector]]
+|Stimulant
+|Removes:[[File:Pain.png|46px|Pain]] for 120 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 120 seconds<br/><br/>
+'''1s Delay; 120s Duration:'''
+*Increases [[Endurance]] (<font color="green">+10</font>)
+*Increases [[Strength]] (<font color="green">+20</font>)
+*Increases maximum stamina (<font color="green">+30</font>)
+|'''1s Delay; 60s Duration:'''
+*Decreases energy recovery (<font color="red">-0.45</font>/s)
+*Decreases hydration recovery (<font color="red">-0.45</font>/s)
+!2
+|-
+![[File:trimadol icon.png|link=Trimadol stimulant injector]]
+![[Trimadol stimulant injector]]
+|Stimulant
+|Removes:
+*[[File:Contusion.png|46px|Concussion]] for 180 seconds
+*[[File:Pain.png|46px|Pain]] for 185 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 185 seconds<br/><br/>
+'''1s Delay; 180s Duration:'''
+*Increases [[Endurance]] (<font color="green">+10</font>)
+*Increases [[Strength]] (<font color="green">+10</font>)
+*Increases [[Attention]] (<font color="green">+10</font>)
+*Increases [[Stress Resistance]] (<font color="green">+10</font>)
+*Increases maximum stamina (<font color="green">+10</font>)
+*Increases stamina recovery rate (<font color="green">+3</font>/s)
+|'''1s Delay; 180s Duration:'''
+*Decreases energy recovery (<font color="red">-0.5</font>/s)
+*Decreases hydration recovery (<font color="red">-0.5</font>/s)
+!2
+|-
+![[File:Adrenaline Icon.png|link=Adrenaline injector]]
+![[Adrenaline injector]]
+|Stimulant
+|Removes:
+*[[File:Contusion.png|46px|Concussion]] for 60 seconds
+*[[File:Pain.png|46px|Pain]] for 65 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 65 seconds<br/><br/>
+'''1s Delay; 60s Duration:'''
+*Increases [[Endurance]] (<font color="green">+10</font>)
+*Increases [[Strength]] (<font color="green">+10</font>)
+'''1s Delay; 15s Duration:'''
+*Increases health regeneration (<font color="green">+4</font>/s)
+|'''1s Delay; 60s Duration:'''
+*Decreases [[Stress Resistance]] (<font color="red">-10</font>)
+'''50s Delay; 30s Duration:'''
+*Decreases energy recovery (<font color="red">-0.8</font>/s)
+*Decreases hydration recovery (<font color="red">-1</font>/s)
+!2
+|-
+![[File:PropitalIcon.png|link=Propital regenerative stimulant injector]]
+![[Propital regenerative stimulant injector]]
+|Stimulant
+|Removes:
+*[[File:Contusion.png|46px|Concussion]] for 240 seconds
+*[[File:Pain.png|46px|Pain]] for 245 seconds
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 245 seconds<br/><br/>
+'''1s Delay; 300s Duration:'''
+*Increases [[Metabolism]] (<font color="green">+20</font>)
+*Increases [[Health]] (<font color="green">+20</font>)
+*Increases [[Vitality]] (<font color="green">+20</font>)
+*Increases health regeneration (<font color="green">+1</font>/s)
+|'''270s Delay; 30s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]][[File:Tunnelvision.png|46px|Tunnel vision]]
+!2
+|-
+![[File:ETG change icon.png|link=eTG-change regenerative stimulant injector]]
+![[eTG-change regenerative stimulant injector]]
+|Stimulant
+|Removes:[[File:Contusion.png|46px|Concussion]]
+'''1s Delay; 90s Duration:'''
+*Increases [[Metabolism]] (<font color="green">+20</font>)
+*Increases [[Immunity]] (<font color="green">+20</font>)
+'''1s Delay; 60s Duration:'''
+*Increases health regeneration (<font color="green">+6.5</font>/s)
+*Increases energy recovery (<font color="green">+0.5</font>/s)
+|'''65s Delay; 60s Duration:'''
+*Decreases [[Health]] (<font color="red">-5</font>)
+*Decreases [[Endurance]] (<font color="red">-5</font>)
+'''65s Delay; 20s Duration:'''
+*Decreases energy recovery (<font color="red">-3</font>/s)
+!2
+|-
+![[File:XTG-12icon.png|link=xTG-12 antidote injector]]
+![[xTG-12 antidote injector]]
+|Stimulant
+|'''6s Delay; 60s Duration:'''
+*Antidote (removes and prevents [[File:Intoxication.png|46px|Poisoning]])
+|'''6s Delay; 60s Duration:'''
+*Decreases [[Health]] (<font color="red">-5</font>)
+!2
+|-
+![[File:perfotoran icon.png|link=Perfotoran (Blue Blood) stimulant injector]]
+![[Perfotoran (Blue Blood) stimulant injector]]
+|Stimulant
+|Removes:
+*Radiation Exposure for 60 seconds
+'''1s Delay; 60s Duration:'''
+*Increases [[Metabolism]] (<font color="green">+5</font>)
+*Increases health regeneration (<font color="green">+1.5</font>/s)
+*Antidote (removes and prevents [[File:Intoxication.png|46px|Poisoning]])
+*Stops and prevents [[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding<br/>'''60s Delay; 60s Duration:'''
+*Decreases [[Health]] (<font color="red">-15</font>)
+*Decreases energy recovery (<font color="red">-1.1</font>/s)
+!2
+|-
+![[File:AHF1-M icon.png|link=AHF1-M stimulant injector]]
+![[AHF1-M stimulant injector]]
+|Stimulant
+|'''1s Delay; 60s Duration:'''
+*Increases [[Health]] (<font color="green">+5</font>)
+*Stops and prevents [[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding<br/>'''1s Delay; 120s Duration:'''
+*Decreases hydration recovery (<font color="red">-0.3</font>/s)
+!2
+|-
+![[File:Hemostatic drug Zagustin icon.png|link=Zagustin hemostatic drug injector]]
+![[Zagustin hemostatic drug injector]]
+|Stimulant
+|'''1s Delay; 180s Duration:'''
+*Increases [[Vitality]] (<font color="green">+20</font>)
+*Stops and prevents [[File:Bleeding.png|46px|Light bleeding]][[File:HeavyBleeding.png|46px|Heavy bleeding]]
+|Causes [[File:Fresh Wound.png|46px|Fresh Wound]] only when treating heavy bleeding<br/>'''1s Delay; 180s Duration:'''
+*Decreases [[Metabolism]] (<font color="red">-5</font>)
+'''170s Delay; 40s Duration:'''
+*Decreases hydration recovery (<font color="red">-1.4</font>/s)
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+!2
+|-
+![[File:PNB icon.png|link=PNB (Product 16) stimulant injector]]
+![[PNB (Product 16) stimulant injector]]
+|Stimulant
+|Removes:[[File:Contusion.png|46px|Concussion]] for 40 seconds
+'''1s Delay; 40s Duration:'''
+*Increases [[Strength]] (<font color="green">+20</font>)
+*Increases health regeneration (<font color="green">+3</font>/s)
+|'''41s Delay; 180s Duration:'''
+*Decreases [[Health]] (<font color="red">-20</font>)
+*Decreases [[Vitality]] (<font color="red">-20</font>)
+'''41s Delay; 20s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+!2
+|-
+![[File:P22 Icon.png|link=P22 (Product 22) stimulant injector]]
+![[P22 (Product 22) stimulant injector]]
+|Stimulant
+|'''1s Delay; 60s Duration:'''
+*Increases [[Stress Resistance]] (<font color="green">+30</font>)
+*Increases [[Health]] (<font color="green">+30</font>)
+*Increases [[Vitality]] (<font color="green">+30</font>)
+|'''65s Delay; 60s Duration:'''
+*Decreases [[Endurance]] (<font color="red">-10</font>)
+*Decreases stamina recovery rate (<font color="red">-0.8</font>/s)
+!2
+|-
+![[File:Meldonin Icon.png|link=Meldonin injector]]
+![[Meldonin injector]]
+|Stimulant
+|'''1s Delay; 900s Duration:'''
+*Increases [[Strength]] (<font color="green">+10</font>)
+*Increases [[Endurance]] (<font color="green">+20</font>)
+*Increases stamina recovery rate (<font color="green">+0.5</font>/s)
+|'''30s Delay; 900s Duration:'''
+*Decreases energy recovery (<font color="red">-0.1</font>/s)
+*Decreases hydration recovery (<font color="red">-0.1</font>/s)
+!2
+|-
+![[File:Combat stimulant SJ1 icon.png|link=SJ1 TGLabs combat stimulant injector]]
+![[SJ1 TGLabs combat stimulant injector]]
+|Stimulant
+|'''1s Delay; 180s Duration:'''
+*Increases [[Endurance]] (<font color="green">+20</font>)
+*Increases [[Strength]] (<font color="green">+20</font>)
+*Increases [[Stress Resistance]] (<font color="green">+20</font>)
+|'''100s Delay; 200s Duration:'''
+*Decreases energy recovery (<font color="red">-0.25</font>/s)
+*Decreases hydration recovery (<font color="red">-0.3</font>/s)
+!2
+|-
+![[File:Combat stimulant SJ6 icon.png|link=SJ6 TGLabs combat stimulant injector]]
+![[SJ6 TGLabs combat stimulant injector]]
+|Stimulant
+|'''1s Delay; 240s Duration:'''
+*Increases maximum stamina (<font color="green">+30</font>)
+*Increases stamina recovery rate (<font color="green">+2</font>/s)
+|'''200s Delay; 40s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]][[File:Tunnelvision.png|46px|Tunnel vision]]
+!2
+|-
+![[File:3-(b-TG) icon.png|link=3-(b-TG) stimulant injector]]
+![[3-(b-TG) stimulant injector]]
+|Stimulant
+|'''1s Delay; 240s Duration:'''
+*Increases [[Attention]] (<font color="green">+30</font>)
+*Increases [[Perception]] (<font color="green">+30</font>)
+*Increases [[Strength]] (<font color="green">+10</font>)
+*Increases stamina recovery rate (<font color="green">+1</font>/s)
+|'''120s Delay; 120s Duration:'''
+*Decreases energy recovery (<font color="red">-0.25</font>/s)
+'''220s Delay; 45s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+!2
+|-
+![[File:2A2-(b-TG) stimulant injector icon.png|link=2A2-(b-TG) stimulant injector]]
+![[2A2-(b-TG) stimulant injector]]
+|Stimulant
+|'''1s Delay; 900s Duration:'''
+*Increases [[Attention]] (<font color="green">+10</font>)
+*Increases [[Perception]] (<font color="green">+10</font>)
+*Increases weight limit (<font color="green">+15%</font>)
+|'''1s Delay; 900s Duration:'''
+*Decreases hydration recovery (<font color="red">-0.1</font>/s)
+!2
+|-
+![[File:Cocktail Obdolbos Icon.png|link=Obdolbos cocktail injector]]
+![[Obdolbos cocktail injector]]
+|Stimulant
+|'''1s Delay; 600s Duration:'''
+*25% Chance: Increases [[Endurance]] (<font color="green">+10</font>)
+*25% Chance: Increases [[Strength]] (<font color="green">+10</font>)
+*25% Chance: Increases [[Intellect]] (<font color="green">+10</font>)
+*25% Chance: Increases [[Attention]] (<font color="green">+10</font>)
+*25% Chance: Increases [[Stress Resistance]] (<font color="green">+10</font>)
+*25% Chance: Increases [[Charisma]] (<font color="green">+10</font>)
+*25% Chance: Increases maximum stamina (<font color="green">+20</font>)
+*25% Chance: Increases health regeneration (<font color="green">+1</font>/s)
+*25% Chance: Increases stamina recovery rate (<font color="green">+1</font>/s)
+*25% Chance: Increases weight limit (<font color="green">+0.1 kg</font>)
+|'''1s Delay; 600s Duration:'''
+*33% Chance: Decreases health regeneration (<font color="red">-600</font>/s)
+*25% Chance: Increases damage taken <br/>(except the head) (<font color="red">+20%</font>)
+*25% Chance: Causes [[File:Tremor.png|46px|Hands tremor]]
+*25% Chance: Decreases hydration recovery (<font color="red">-1</font>/s)
+*25% Chance: Decreases energy recovery (<font color="red">-1</font>/s)
+!2
+|-
+![[File:obdolbos2 icon.png|link=Obdolbos 2 cocktail injector]]
+![[Obdolbos 2 cocktail injector]]
+|Stimulant
+|'''1s Delay; 1800s Duration:'''
+*Increases [[Endurance]] (<font color="green">+20</font>)
+*Increases [[Strength]] (<font color="green">+20</font>)
+*Increases [[Attention]] (<font color="green">+20</font>)
+*Increases [[Perception]] (<font color="green">+20</font>)
+*Increases weight limit (<font color="green">+45%</font>)
+|'''1s Delay; 1800s Duration:'''
+*Decreases maximum stamina (<font color="red">-20</font>)
+*Decreases stamina recovery rate (<font color="red">-1</font>/s)
+*Decreases health regeneration (<font color="red">-1</font>/s)
+!2
+|-
+![[File:M.U.L.E. Stimulator Icon.png|link=M.U.L.E. stimulant injector]]
+![[M.U.L.E. stimulant injector]]
+|Stimulant
+|'''1s Delay; 900s Duration:'''
+*Increases weight limit (<font color="green">+50%</font>)
+|'''1s Delay; 900s Duration:'''
+*Decreases health regeneration (<font color="red">-0.1</font>/s)
+!2
+|-
+![[File:Combat stimulant SJ9 icon.png|link=SJ9 TGLabs combat stimulant injector]]
+![[SJ9 TGLabs combat stimulant injector]]
+|Stimulant
+|'''6s Delay; 300s Duration:'''
+*Lowers body temperature (<font color="green">-7 °C</font>)
+|'''6s Delay; 300s Duration:'''
+*Decreases [[Metabolism]] (<font color="red">-20</font>)
+'''6s Delay; 420s Duration:'''
+*Decreases health regeneration (<font color="red">-0.1</font>/s)
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+'''300s Delay; 120s Duration:'''
+*Causes [[File:Pain.png|46px|Pain]]
+!2
+|-
+![[File:SJ12 icon.png|link=SJ12 TGLabs combat stimulant injector]]
+![[SJ12 TGLabs combat stimulant injector]]
+|Stimulant
+|'''1s Delay; 600s Duration:'''
+*Increases [[Perception]] (<font color="green">+30</font>)
+*Lowers body temperature (<font color="green">-4 °C</font>)
+*Increases energy recovery (<font color="green">+0.05</font>/s)
+*Increases hydration recovery (<font color="green">+0.05</font>/s)
+|'''606s Delay; 300s Duration:'''
+*Raises body temperature (<font color="red">+6 °C</font>)
+!2
+|}
+
+==See also==
+* [[Health system]]
+
+{{Navbox medical}}
+[[Category:Medical treatment]]
+
+[[cs:Medikamenty]]
+[[de:Medizin]]
+[[fr:Soins]]
+[[ru:Медикаменты]]
+
+__FORCETOC__

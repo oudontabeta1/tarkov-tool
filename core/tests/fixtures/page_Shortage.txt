@@ -1,0 +1,60 @@
+{{Infobox quest
+|image           =Shortage Banner.png
+|icon            =
+|given by        =[[Therapist]]
+|location        =
+|LL requirement  =1
+|LL quests       =1
+|previous        =[[First in Line]]<br/>or<br/>[[Operation Aquarius]]<br/>or<br/>[[Supply Plans]]
+|leads to        =
+|related         =
+}}
+
+'''{{PAGENAME}}''' is a [[Quests|Quest]] in ''[[Escape from Tarkov]]''.
+
+==Dialogue==
+{{quote|Hello, mercenary. Are you interested in a little part-time work? It's not a difficult task, but it's quite lucrative. Don't forget, you can get both food and drink from me, as well as expert medical care. But first, let's talk about the job. I require three emergency medical kits. They're called Salewa - the red western ones. I need you to obtain them yourself, not buy them off someone else. Just to prove that we're serious about this. We may know each other, but not enough for me to trust you yet. Are you up for the job?}}
+
+==Objectives==
+* Find 3 [[Salewa first aid kit]] [[Found in raid|<font color="red">in raid</font>]]
+* Hand over the 3 [[Salewa first aid kit|first aid kits]]
+
+==Rewards==
+* +3,000 [[EXP]]
+*[[Therapist]] Rep <font color="green">'''+0.1'''</font>
+* 80,000 Roubles
+** 84,000 Roubles with [[Hideout#Modules|Intelligence Center]] Level 1
+** 92,000 Roubles with [[Hideout#Modules|Intelligence Center]] Level 2
+
+{{quote|Thank you, young man. The first aid kits will be put to good use. I won't tell you any more than that, though.}}
+
+==Initial Equipment==
+Unlocks craft for [[Salewa first aid kit]] at [[Hideout#modules|Medstation level 1]]
+
+==Guide==
+{|class="wikitable"
+! colspan="6" |Related Quest Items
+|-
+!Icon
+!Item name
+!Amount
+!Requirement
+!'''[[Found in raid|Find in raid]]'''
+!Notes
+|-
+|[[File:EFT Salewa-First-Aid-Kit Icon 2.png|frameless|64px|link=Salewa first aid kit]]
+|[[Salewa first aid kit]]
+|3
+|Handover item
+!<font color="red">Yes</font>
+|Can be crafted in the [[Hideout]] (Medstation lv. 1).<br/>This item can be in any condition and still handed in.
+|}
+
+{{Navbox quests}}
+
+[[Category:Quests]]
+
+[[cs:Nedostatek]]
+[[de:Engpass]]
+[[fr:Pénurie]]
+[[ru:Дефицит]]

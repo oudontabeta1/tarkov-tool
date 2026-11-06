@@ -1,0 +1,218 @@
+{{Infobox weapon
+|image              =Akn.png
+|image size         =
+|AK-74N icon.png     (Icon is hidden on purpose, placed here for accessibility)
+|icon size          =
+|type               =[[Weapons#Assault rifles|Assault rifle]]
+|slot               =Primary
+|weight             =3.42 kg
+|grid               =5x2
+|price              =
+|trader             =[[Prapor]] LL2: Standard<br/>[[Mechanic]] LL2: Stripped variant<br/>[[Ref]] LL3
+|repair             =
+|fire modes         =Single<br/>Full Auto
+|sightrange         =500
+|ergonomics         =48
+|velocity           =906 m/s
+|range              =650 m
+|MOA                =1.96
+|Weaprecoil         =Vertical: 71<br/>Horizontal: 181
+|rof                =650
+|caliber            =[[5.45x39mm]]
+|def ammo           ={{56dff3afd2720bba668b4567}}
+|ammo               ={{5.45x39mm}}
+|def mag            ={{564ca99c4bdc2d16268b4589}}
+|loot xp            =30
+|exam xp            =10
+|mods               =
+|node               =5644bd2b4bdc2d3b4c8b4572
+|ID                 =weapon_izhmash_ak74n_545x39
+}}
+
+The '''{{PAGENAME}}''' (AK-74N) is an [[Weapons#Assault rifles|assault rifle]] in ''[[Escape from Tarkov]]''.
+
+==Description==
+AK-74N (Avtomat Kalashnikova 74 Nochnoy - "Kalashnikov's Automatic rifle 74 Night") was developed in 1970 by M. T. Kalashnikov, became a further evolution of AKM due to adoption of the new 5.45x39 ammunition by the military. The key design difference from the standard AK-74 is a side mount for optical and night scopes.
+
+==Mods==
+<div style="display:table"><tabber>Gas block=
+<div class="mobileonly">'''Gas block'''</div>
+{{5a01ad4786f77450561fda02}}<br/>
+{{59c6633186f7740cf0493bb9}}<br/>
+{{59d64ec286f774171d1e0a42}}<br/>
+{{59e649f986f77411d949b246}}<br/>
+{{5b237e425acfc4771e1be0b6}}<br/>
+{{59ccfdba86f7747f2109a587}}<br/>
+{{5cf656f2d7f00c06585fb6eb}}<br/>
+{{5d4aab30a4b9365435358c55}}<br/>
+|-|Muzzle=
+<div class="mobileonly">'''Muzzle'''</div>
+{{5ac72e945acfc43f3b691116}}<br/>
+{{5ac7655e5acfc40016339a19}}<br/>
+{{5649aa744bdc2ded0b8b457e}}<br/>
+{{5f633f791b231926f2329f13}}<br/>
+{{5943eeeb86f77412d6384f6b}}<br/>
+{{5cc9a96cd7f00c011c04e04a}}<br/>
+{{615d8f5dd92c473c770212ef}}<br/>
+{{5649ab884bdc2ded0b8b457f}}<br/>
+{{57dc324a24597759501edc20}}<br/>
+{{59bffc1f86f77435b128b872}}<br/>
+{{593d493f86f7745e6b2ceb22}}<br/>
+{{564caa3d4bdc2d17108b458e}}<br/>
+{{57ffb0e42459777d047111c5}}<br/>
+{{5e21ca18e4d47f0da15e77dd}}<br/>
+|-|Pistol grip=
+<div class="mobileonly">'''Pistol grip'''</div>
+{{619b69037b9de8162902673e}}<br/>
+{{5f6341043ada5942720e2dc5}}<br/>
+{{6087e663132d4d12c81fd96b}}<br/>
+{{5beec8ea0db834001a6f9dbf}}<br/>
+{{5649ad3f4bdc2df8348b4585}}<br/>
+{{5649ade84bdc2d1b2b8b4587}}<br/>
+{{59e62cc886f77440d40b52a1}}<br/>
+{{5a0071d486f77404e23a12b2}}<br/>
+{{57e3dba62459770f0c32322b}}<br/>
+{{5cf54404d7f00c108840b2ef}}<br/>
+{{5e2192a498a36665e8337386}}<br/>
+{{5b30ac585acfc433000eb79c}}<br/>
+{{59e6318286f77444dd62c4cc}}<br/>
+{{5cf50850d7f00c056e24104c}}<br/>
+{{5cf508bfd7f00c056e24104e}}<br/>
+{{5947f92f86f77427344a76b1}}<br/>
+{{5947fa2486f77425b47c1a9b}}<br/>
+{{5c6bf4aa2e2216001219b0ae}}<br/>
+{{5649ae4a4bdc2d1b2b8b4588}}<br/>
+{{5998517986f7746017232f7e}}<br/>
+{{623c3be0484b5003161840dc}}<br/>
+{{628a664bccaab13006640e47}}<br/>
+{{628c9ab845c59e5b80768a81}}<br/>
+{{63f4da90f31d4a33b87bd054}}<br/>
+{{648ae3e356c6310a830fc291}}<br/>
+{{651580dc71a4f10aec4b6056}}<br/>
+{{68d5674bb2573b07dc0d225f}}<br/>
+{{6981f8ca1d2e2070560b7275}}<br/>
+{{6984b7bf0baed1fc0a0594f6}}
+|-|Receiver=
+<div class="mobileonly">'''Receiver'''</div>
+{{628a665a86cbd9750d2ff5e5}}<br/>
+{{5d2c76ed48f03532f2136169}}<br/>
+{{5d2c770c48f0354b4a07c100}}<br/>
+{{59d6507c86f7741b846413a2}}<br/>
+{{59e6449086f7746c9f75e822}}<br/>
+{{5d2c772c48f0355d95672c25}}<br/>
+{{5649af884bdc2d1b2b8b4589}}<br/>
+|-|Rear sight=
+<div class="mobileonly">'''Rear sight'''</div>
+{{5ac733a45acfc400192630e2}}<br/>
+{{5649b0544bdc2d1b2b8b458a}}<br/>
+{{5ac72e475acfc400180ae6fe}}<br/>
+{{628a7b23b0f75035732dd565}}<br/>
+{{5649d9a14bdc2d79388b4580}}<br/>
+|-|Stock=
+<div class="mobileonly">'''Stock'''</div>
+{{628a6678ccaab13006640e49}}<br/>
+{{5649b0fc4bdc2d17108b4588}}<br/>
+{{5cbdb1b0ae9215000d50e105}}<br/>
+{{5649b1c04bdc2d16268b457c}}<br/>
+{{5cf518cfd7f00c065b422214}}<br/>
+{{5b04473a5acfc40018632f70}}<br/>
+{{5e217ba4c1434648c13568cd}}<br/>
+{{59d6514b86f774171a068a08}}<br/>
+{{5b0e794b5acfc47a877359b2}}<br/>
+{{59e6227d86f77440d64f5dc2}}<br/>
+{{59e89d0986f77427600d226e}}<br/>
+{{6087e2a5232e5a31c233d552}}<br/>
+{{5649b2314bdc2d79388b4576}}<br/>
+{{5b222d335acfc4771e1be099}}<br/>
+{{688cbdc341e2a57a8f0c1c6c}}
+|-|Magazine=
+<div class="mobileonly">'''Magazine'''</div>
+{{564ca9df4bdc2d35148b4569}}<br/>
+{{564ca99c4bdc2d16268b4589}}<br/>
+{{55d480c04bdc2d1d4e8b456a}}<br/>
+{{5cbdaf89ae9215000e5b9c94}}<br/>
+{{55d481904bdc2d8c2f8b456a}}<br/>
+{{55d482194bdc2d1d4e8b456b}}<br/>
+{{55d4837c4bdc2d1d4e8b456c}}<br/>
+{{5aaa4194e5b5b055d06310a5}}<br/>
+{{5bed61680db834001d2c45ab}}<br/>
+{{5bed625c0db834001c062946}}<br/>
+{{649ec30cb013f04a700e60fb}}<br/>
+{{64b9e265c94d0d15c5027e35}}
+|-|Mount=
+<div class="mobileonly">'''Mount'''</div>
+{{5947db3f86f77447880cf76f}}<br/>
+{{6113d6c3290d254f5e6b27db}}<br/>
+{{57486e672459770abd687134}}<br/>
+{{618a5d5852ecee1505530b2a}}<br/>
+{{5c82342f2e221644f31c060e}}<br/>
+{{576fd4ec2459777f0b518431}}<br/>
+{{5c82343a2e221644f31c0611}}<br/>
+{{5cf638cbd7f00c06595bc936}}<br/>
+{{5a7c74b3e899ef0014332c29}}<br/>
+{{591ee00d86f774592f7b841e}}<br/>
+{{5d0a29ead7ad1a0026013f27}}<br/>
+{{618a75c9a3884f56c957ca1b}}<br/>
+{{57acb6222459771ec34b5cb0}}<br/>
+{{5c61a40d2e2216001403158d}}<br/>
+{{5c90c3622e221601da359851}}<br/>
+{{638db77630c4240f9e06f8b6}}<br/>
+{{63d114019e35b334d82302f7}}<br/>
+{{6544d4187c5457729210d277}}<br/>
+|-|Charge handle=
+<div class="mobileonly">'''Charge handle'''</div>
+{{6130ca3fd92c473c77020dbd}}<br/>
+{{5648ac824bdc2ded0b8b457d}}<br/>
+|-|Launcher=
+<div class="mobileonly">'''Launcher'''</div>
+{{62e7e7bbe6da9612f743f1e0}}<br/>
+</tabber></div>
+
+==Crafting==
+{|class="wikitable"
+|-
+![[File:Screwdriver tool.png|frameless|link=Screwdriver]] x1<br/>[[Screwdriver]]<br/>+<br/>[[File:Pliers tool.png|frameless|link=Pliers]] x1<br/>[[Pliers]]<br/>+<br/>[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1<br/>[[Weapon parts]]<br/>+<br/>[[File:6p20sb6.png|frameless|link=AK-74 wooden handguard]] x1<br/>[[AK-74 wooden handguard]]<br/>+<br/>[[File:6p20sb5icon.png|frameless|link=AK-74 wooden stock]] x1<br/>[[AK-74 wooden stock]]
+!<big>→</big>
+!<big>[[Hideout#Modules|Workbench level 1]]</big><br/>1 h 21 min 40 sec
+!<big>→</big>
+![[File:AK-74N icon.png|frameless|link=Kalashnikov AK-74N 5.45x39 assault rifle]] x1<br/>[[Kalashnikov AK-74N 5.45x39 assault rifle]]
+|}
+
+==Weapon variants==
+{|class="wikitable"
+!Images
+!Weapon Variants
+!Attachments
+|-
+|[[File:AK-74N Magpul.png|center]]
+|AK-74N Magpul
+|
+{{59c6633186f7740cf0493bb9}}<br/>
+{{57cffddc24597763133760c6}}<br/>
+{{57cffcd624597763133760c5}}<br/>
+{{5649ab884bdc2ded0b8b457f}}<br/>
+{{5649ae4a4bdc2d1b2b8b4588}}<br/>
+{{5649af094bdc2df8348b4586}}<br/>
+{{5649d9a14bdc2d79388b4580}}<br/>
+{{58491f3324597764bc48fa02}}<br/>
+{{5649b2314bdc2d79388b4576}}<br/>
+{{5649be884bdc2d79388b4577}}<br/>
+{{58d2946386f774496974c37e}}<br/>
+{{58d2912286f7744e27117493}}<br/>
+|}
+
+==See also==
+* [[wikipedia:AK-74|AK-74 on Wikipedia]]
+* [[Weapons#Assault rifles|Assault rifles]]
+* [[AKS-74N]]
+* [[AKS-74U]]
+
+{{Navbox weapons}}
+[[Category:Weapons]]
+[[Category:Assault rifles]]
+
+[[cs:Útočná puška AK-74N 5.45x39]]
+[[de:AK-74N 5,45 x 39 Sturmgewehr]]
+[[fr:Fusil d'assaut AK-74N 5,45 x 39 mm]]
+[[ru:Автомат Калашникова АК-74Н 5.45x39]]
+[[zh:卡拉什尼科夫 AK-74N 突擊步槍]]

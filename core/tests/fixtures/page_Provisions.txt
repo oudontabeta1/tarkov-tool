@@ -1,0 +1,611 @@
+'''{{PAGENAME}}''' are used to restore hydration and energy.
+
+The stats shown below are affected by the [[Metabolism]] skill. The higher your [[Metabolism]] skill, the better their effect.
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!Energy
+!Hydration
+!Buffs
+!Debuffs
+!Use Time (s)
+!'''[[Barter trades|Barter<br/>Item]]'''
+!'''[[Crafts|Crafting<br/>Item]]'''
+!Notes
+|-
+![[File:Can of GigaBeef meat icon.png|link=Can of GigaBeef meat]]
+![[Can of GigaBeef meat]]
+|<font color="green">+100</font>
+|<font color="red">-50</font>
+|
+|
+|5
+!style="color: red" |✘
+!style="color: red" |✘
+|'''Quests'''
+*1 needs to be found <font color="red">in raid</font> for the quest [[Collector]]
+|-
+![[File:French bakery baguette icon.png|link=French bakery baguette]]
+![[French bakery baguette]]
+|<font color="green">+40</font>
+|<font color="red">-18</font>
+|
+|
+|5
+!style="color: red" |✘
+!style="color: red" |✘
+|'''Quests'''
+*1 needs to be found <font color="red">in raid</font> for the quest [[Collector]]
+|-
+![[File:Bottle of YMXC water icon.png|link=Bottle of YMXC water]]
+![[Bottle of YMXC water]]
+|<font color="green">+100</font>
+|<font color="green">+30</font>
+|
+|
+|3
+!style="color: red" |✘
+!style="color: red" |✘
+|'''Quests'''
+*1 needs to be found <font color="red">in raid</font> for the quest [[Collector]]
+|-
+![[File:Emeyla Croutons.png|64px|link=Emelya rye croutons]]
+![[Emelya rye croutons]]
+|<font color="green">+10</font>
+|<font color="red">-10</font>
+|
+|'''1s Delay; 60s Duration:'''
+*Decreases hydration recovery (<font color="red">-0.2</font>/s)
+|4
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Army Crackers icon.png|64px|link=Army crackers]]
+![[Army crackers]]
+|<font color="green">+10</font>
+|<font color="red">-5</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Rye Croutons.png|64px|link=Rye croutons]]
+![[Rye croutons]]
+|<font color="green">+20</font>
+|<font color="red">-10</font>
+|
+|'''1s Delay; 60s Duration:'''
+*Decreases hydration recovery (<font color="red">-0.2</font>/s)
+|4
+!style="color: red" |✘
+!style="color: green" |✔
+|
+|-
+![[File:Slickers bar icon.png|64px|link=Slickers chocolate bar]]
+![[Slickers chocolate bar]]
+|<font color="green">+30</font>
+|<font color="red">-15</font>
+|'''1s Delay; 60s Duration:'''
+*Increases [[Intellect]] (<font color="green">+1</font>)
+*Increases [[Attention]] (<font color="green">+1</font>)
+*Increases [[Stress Resistance]] (<font color="green">+1</font>)
+|
+|2
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Alyonka Chocolate Bar icon.png|64px|link=Alyonka chocolate bar]]
+![[Alyonka chocolate bar]]
+|<font color="green">+35</font>
+|<font color="red">-15</font>
+|'''1s Delay; 120s Duration:'''
+*Increases [[Attention]] (<font color="green">+2</font>)
+*Increases [[Stress Resistance]] (<font color="green">+2</font>)
+*Increases [[Intellect]] (<font color="green">+2</font>)
+|
+|2
+!style="color: red" |✘
+!style="color: green" |✔
+|
+|-
+![[File:Oatflakes icon.png|64px|link=Pack of oat flakes]]
+![[Pack of oat flakes]]
+|<font color="green">+40</font>
+|<font color="red">-13</font>
+|
+|
+|6
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Sugar icon.png|64px|link=Pack of sugar]]
+![[Pack of sugar]]
+|<font color="green">+70</font>
+|<font color="red">-45</font>
+|'''1s Delay; 300s Duration:'''
+*Increases [[Intellect]] (<font color="green">+1</font>)
+|
+|9
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Condmilkicon.png|64px|link=Can of condensed milk]]
+![[Can of condensed milk]]
+|<font color="green">+75</font>
+|<font color="red">-65</font>
+|'''1s Delay; 300s Duration:'''
+*Increases [[Intellect]] (<font color="green">+3</font>)
+*Increases [[Attention]] (<font color="green">+3</font>)
+*Increases [[Stress Resistance]] (<font color="green">+3</font>)
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:DDGMayoIcon.png|64px|link=Jar of DevilDog mayo]]
+![[Jar of DevilDog mayo]]
+|<font color="green">+100</font>
+|<font color="red">-99</font>
+|
+|'''1s Delay; 300s Duration:'''
+*Decreases [[Metabolism]] (<font color="red">-3</font>)
+|4
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:Can of beef stew Icon.png|64px|link=Can of beef stew (Small)]]
+![[Can of beef stew (Small)]]
+|<font color="green">+45</font>
+|<font color="red">-5</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+*15 need to be found <font color="red">in raid</font> for the quest [[General Wares]]
+|-
+![[File:Herring icon.png|64px|link=Can of herring]]
+![[Can of herring]]
+|<font color="green">+47</font>
+|<font color="red">-3</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Saury icon.png|64px|link=Can of pacific saury]]
+![[Can of pacific saury]]
+|<font color="green">+48</font>
+|<font color="red">-2</font>
+|
+|
+|5
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:Can of beef stew alt Icon.png|64px|link=Can of beef stew (Large)]]
+![[Can of beef stew (Large)]]
+|<font color="green">+50</font>
+|<font color="red">-5</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Humpback icon.png|64px|link=Can of humpback salmon]]
+![[Can of humpback salmon]]
+|<font color="green">+50</font>
+|<font color="red">-5</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Salty dog sausage icon.png|127px|link=Salty Dog beef sausage]]
+![[Salty Dog beef sausage]]
+|<font color="green">+50</font>
+|<font color="red">-5</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+* 1 needs to be found <font color="red">in raid</font> for the quest [[The Delicious Sausage]]
+* 1 needs to be obtained for the quest [[Provocation]]
+* 2 need to be obtained for the quest [[A Bitter Victory]]
+|-
+![[File:Can of sprats Icon.png|64px|link=Can of sprats]]
+![[Can of sprats]]
+|<font color="green">+55</font>
+|<font color="red">-5</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Peas icon.png|64px|link=Can of green peas]]
+![[Can of green peas]]
+|<font color="green">+35</font>
+|<font color="green">+5</font>
+|
+|
+|5
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:Pack of Tarker dried meat icon.png|64px|link=Pack of Tarker dried meat]]
+![[Pack of Tarker dried meat]]
+|<font color="green">+55</font>
+|<font color="red">-5</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Noodles Icon.png|64px|link=Pack of instant noodles]]
+![[Pack of instant noodles]]
+|<font color="green">+25</font>
+|<font color="red">-10</font>
+|
+|
+|3
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:Squash Spread icon.png|64px|link=Can of squash spread]]
+![[Can of squash spread]]
+|<font color="green">+40</font>
+|<font color="yellow">+0</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:MRE icon.png|64px|link=MRE ration pack]]
+![[MRE ration pack]]
+|<font color="green">+70</font>
+|<font color="yellow">+0</font>
+|'''1s Delay; 300s Duration:'''
+*Increases energy recovery (<font color="green">+0.1</font>/s)
+|
+|5
+!style="color: green" |✔
+!style="color: red" |✘
+|'''Quests'''
+* 5 need to be obtained for the quest [[Humanitarian Supplies]]
+|-
+![[File:Lunchbox icon.png|64px|link=Iskra ration pack]]
+![[Iskra ration pack]]
+|<font color="green">+80</font>
+|<font color="yellow">+0</font>
+|
+|
+|5
+!style="color: green" |✔
+!style="color: red" |✘
+|'''Quests'''
+* 2 need to be obtained for the quest [[The Survivalist Path - Thrifty]]
+|-
+![[File: Can of duck pate icon.png|64px|link=Can of duck pate]]
+![[Can of duck pate]]
+|<font color="green">+50</font>
+|<font color="green">+5</font>
+|
+|
+|5
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:Green Tea icon.png|64px|link=Can of Ice Green tea]]
+![[Can of Ice Green tea]]
+|<font color="yellow">+0</font>
+|<font color="green">+15</font>
+|
+|
+|2
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Tar Cola icon.png|64px|link=Can of TarCola soda]]
+![[Can of TarCola soda]]
+|<font color="green">+5</font>
+|<font color="green">+15</font>
+|'''1s Delay; 60s Duration:'''
+*Increases energy recovery (<font color="green">+0.1</font>/s)
+|
+|4
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Apple Juice icon.png|64px|link=Pack of apple juice]]
+![[Pack of apple juice]]
+|<font color="green">+5</font>
+|<font color="green">+25</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Hor Rod icon.png|64px|link=Can of Hot Rod energy drink]]
+![[Can of Hot Rod energy drink]]
+|<font color="green">+10</font>
+|<font color="green">+20</font>
+|'''1s Delay; 300s Duration:'''
+*Increases [[Endurance]] (<font color="green">+1</font>)
+*Increases [[Strength]] (<font color="green">+1</font>)
+*Increases [[Mag Drills]] (<font color="green">+1</font>)
+|
+|2
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:NRG Drink icon.png|64px|link=Can of Max Energy energy drink]]
+![[Can of Max Energy energy drink]]
+|<font color="green">+12</font>
+|<font color="green">+20</font>
+|'''1s Delay; 300s Duration:'''
+*Increases [[Endurance]] (<font color="green">+1</font>)
+*Increases [[Mag Drills]] (<font color="green">+1</font>)
+|'''1s Delay; 300s Duration:'''
+* Decreases [[Stress Resistance]] (<font color="red">-1</font>)
+|2
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Vita Juice icon.png|64px|link=Pack of Vita juice]]
+![[Pack of Vita juice]]
+|<font color="green">+8</font>
+|<font color="green">+28</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Grand Juice icon.png|64px|link=Pack of Grand juice]]
+![[Pack of Grand juice]]
+|<font color="green">+6</font>
+|<font color="green">+30</font>
+|
+|
+|4
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Pineapple Juice icon.png|64px|link=Pack of Russian Army pineapple juice]]
+![[Pack of Russian Army pineapple juice]]
+|<font color="green">+8</font>
+|<font color="green">+30</font>
+|'''1s Delay; 60s Duration:'''
+*Increases energy recovery (<font color="green">+0.2</font>/s)
+|
+|3
+!style="color: red" |✘
+!style="color: red" |✘
+|
+|-
+![[File:RatCola Icon.png|64px|link=Can of RatCola soda]]
+![[Can of RatCola soda]]
+|<font color="green">+20</font>
+|<font color="green">+20</font>
+|'''1s Delay; 60s Duration:'''
+*Increases energy recovery (<font color="green">+0.1</font>/s)
+|
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|'''Quests'''
+*1 needs to be found <font color="red">in raid</font> for the quest [[Collector]]
+|-
+![[File:Pack ofMilk icon.png|64px|link=Pack of milk]]
+![[Pack of milk]]
+|<font color="green">+20</font>
+|<font color="green">+30</font>
+|'''1s Delay; 300s Duration:'''
+*Increases [[Immunity]] (<font color="green">+1</font>)
+|
+|3
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Pevko beer icon.png|64px|link=Bottle of Pevko Light beer]]
+![[Bottle of Pevko Light beer]]
+|<font color="green">+10</font>
+|<font color="green">+40</font>
+|'''5s Delay; 120s Duration:'''
+*Increases [[Stress Resistance]] (<font color="green">+1</font>)
+*Increases [[Charisma]] (<font color="green">+1</font>)
+|'''6s Delay; 120s Duration:'''
+*Decreases [[Attention]] (<font color="red">-3</font>)
+|3
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+*20 need to be found <font color="red">in raid</font> for the quest [[Booze]]
+|-
+![[File:EmergencyWaterRationIcon.png|64px|link=Emergency Water Ration]]
+![[Emergency Water Ration]]
+|<font color="green">+5</font>
+|<font color="green">+50</font>
+|
+|
+|2
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Water icon.png|64px|link=Bottle of water (0.6L)]]
+![[Bottle of water (0.6L)]]
+|<font color="yellow">+0</font>
+|<font color="green">+60</font>
+|
+|
+|3
+!style="color: red" |✘
+!style="color: green" |✔
+|'''Quests'''
+* 2 need to be obtained for the quest [[The Survivalist Path - Thrifty]]
+|-
+![[File:Kvass icon.png|64px|link=Bottle of Norvinsky Yadreniy premium kvass (0.6L)]]
+![[Bottle of Norvinsky Yadreniy premium kvass (0.6L)]]
+|<font color="green">+15</font>
+|<font color="green">+65</font>
+|
+|
+|3
+!style="color: green" |✔
+!style="color: green" |✔
+|
+|-
+![[File:Aquamari icon.png|64px|link=Aquamari water bottle with filter]]
+![[Aquamari water bottle with filter]]
+|<font color="green">+20</font>
+|<font color="green">+100</font>
+|
+|
+|3
+!style="color: green" |✔
+!style="color: red" |✘
+|
+|-
+![[File:Purified water icon.png|127px|link=Canister with purified water]]
+![[Canister with purified water]]
+|<font color="green">+25</font>
+|<font color="green">+100</font>
+|Removes: Radiation Exposure
+'''1s Delay; 600s Duration:'''
+*Increases [[Endurance]] (<font color="green">+1</font>)
+*Increases [[Strength]] (<font color="green">+1</font>)
+*Increases [[Vitality]] (<font color="green">+1</font>)
+*Increases [[Health]] (<font color="green">+1</font>)
+*Increases [[Stress Resistance]] (<font color="green">+1</font>)
+*Increases [[Metabolism]] (<font color="green">+1</font>)
+*Increases [[Immunity]] (<font color="green">+1</font>)
+*Increases [[Intellect]] (<font color="green">+1</font>)
+*Increases [[Perception]] (<font color="green">+1</font>)
+*Increases [[Attention]] (<font color="green">+1</font>)
+'''3s Delay; 60s Duration:'''
+*Increases health regeneration (<font color="green">+1</font>/s)
+|
+|15
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+*3 need to be found <font color="red">in raid</font> for the quest [[Booze]]
+|-
+![[File:Whiskey icon.png|64px|link=Bottle of Dan Jackiel whiskey]]
+![[Bottle of Dan Jackiel whiskey]]
+|<font color="green">+10</font>
+|<font color="red">-35</font>
+|Removes:
+*[[File:Pain.png|46px|Pain]] for 210 seconds
+*Radiation Exposure
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 210 seconds
+
+'''1s Delay; 210s Duration:'''
+* Increases [[Stress Resistance]] (<font color="green">+2</font>)
+|'''1s Delay; 210s Duration:'''
+*Decreases [[Health]] (<font color="red">-2</font>)
+'''220s Delay; 60s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+|4
+!style="color: green" |✔
+!style="color: red" |✘
+|'''Quests'''
+* 20 need to be obtained for the quest [[A Life Lesson]]
+* 10 need to be obtained for the quest [[Booze]]
+|-
+![[File:VodkaIcon.png|64px|link=Bottle of Tarkovskaya vodka]]
+![[Bottle of Tarkovskaya vodka]]
+|<font color="yellow">+0</font>
+|<font color="red">-50</font>
+|Removes:
+*[[File:Pain.png|46px|Pain]] for 250 seconds
+*Radiation Exposure
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 250 seconds
+
+'''1s Delay; 250s Duration:'''
+*Increases [[Stress Resistance]] (<font color="green">+5</font>)
+|'''1s Delay; 250s Duration:'''
+*Decreases [[Health]] (<font color="red">-5</font>)
+'''255s Delay; 120s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+|5
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+* 10 need to be found <font color="red">in raid</font> for the quest [[Booze]]
+* 12 need to be obtained for the quest [[A Life Lesson]]
+* 4 need to be obtained for the quest [[A Bitter Victory]]
+|-
+![[File:Fiece hatchling moonshine icon.png|64px|link=Bottle of Fierce Hatchling moonshine]]
+![[Bottle of Fierce Hatchling moonshine]]
+|<font color="green">+20</font>
+|<font color="red">-10</font>
+|Removes:
+*[[File:Pain.png|46px|Pain]] for 500 seconds
+*Radiation Exposure
+Adds: [[File:On Painkillers.png|46px|On Painkillers]] for 500 seconds
+
+'''1s Delay; 500s Duration:'''
+*Increases [[Stress Resistance]] (<font color="green">+3</font>)
+|'''1s Delay; 500s Duration:'''
+*Decreases [[Health]] (<font color="red">-1</font>)
+
+'''510s Delay; 150s Duration:'''
+*Causes [[File:Tremor.png|46px|Hands tremor]]
+|6
+!style="color: green" |✔
+!style="color: green" |✔
+|'''Quests'''
+* 1 needs to be obtained for the quest [[Provocation]]
+* 1 is used in the quest [[Sensory Analysis - Part 1]]
+* 20 need to be obtained for the quest [[A Life Lesson]]
+* 2 need to be obtained for the quest [[A Bitter Victory]]
+'''Hideout'''
+* 3 need to be found [[Found in raid|<font color="red">in raid</font>]] for the [[Hideout#Modules|Scav Case]]
+|}
+
+[[Category:Provisions]]
+{{Navbox provisions}}
+
+[[cs:Potrava]]
+[[de:Nahrungsmittel]]
+[[fr:Provisions]]
+[[ko:식품(Provisions)]]
+[[ru:Провизия]]

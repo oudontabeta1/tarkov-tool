@@ -1,0 +1,231 @@
+The '''{{PAGENAME}}''' (5.45x39) is a [[Ammunition#Rifle cartridges|rifle cartridge]] used for [[Weapons#Assault carbines|assault carbines]], [[Weapons#Assault rifles|assault rifles]] and [[Weapons#Light machine guns|light machine guns]] in ''[[Escape from Tarkov]]''.
+
+==Types==
+{| class="wikitable sortable stickyheader 
+!Icon
+!Name
+!DMG
+!Penetration<br/>Power
+!Armor<br/>DMG %
+!Accuracy %
+!Recoil
+!Light<br/>Bleed %
+!Heavy<br/>Bleed %
+!Durability<br/>burn %
+!Heat %
+!Projectile<br/>Speed (m/s)
+!Source
+|-
+![[File:7N40.png|64px|link=5.45x39mm 7N40]]
+![[5.45x39mm 7N40]]
+|55
+|42
+|45
+|<font color="green">+50</font>
+|<font color="green">-10</font>
+|<font color="green">+20</font>
+|<font color="green">+15</font>
+|<font color="red">+35</font>
+|<font color="red">+75.2</font>
+|915
+|[[Prapor]] LL4 after [[Calibration]]
+|-
+![[File:74BPICON.png|link=5.45x39mm BP gs]]
+![[5.45x39mm BP gs]]
+|48
+|45
+|46
+|<font color="red">-3</font>
+|<font color="red">+7</font>
+|
+|
+|<font color="red">+35</font>
+|<font color="red">+59.3</font>
+|890
+|[[Hideout#Modules|Workbench]] LV3 after [[Unique Experience]]
+|-
+![[File:74BSICON.png|link=5.45x39mm BS gs]]
+![[5.45x39mm BS gs]]
+|45
+|54
+|57
+|<font color="red">-4</font>
+|<font color="red">+10</font>
+|
+|
+|<font color="red">+45</font>
+|<font color="red">+69.9</font>
+|830
+|Loot only
+|-
+![[File:74BTICON.png|link=5.45x39mm BT gs]]
+![[5.45x39mm BT gs]] '''<sup>T</sup>'''
+|54
+|37
+|44
+|<font color="red">-4</font>
+|<font color="red">+5</font>
+|
+|
+|<font color="red">+50</font>
+|<font color="red">+68.2</font>
+|880
+|[[Prapor]] LL2 (Barter)<br/>[[Prapor]] LL4
+|-
+![[File:74FMJICON.png|link=5.45x39mm FMJ]]
+![[5.45x39mm FMJ]]
+|55
+|24
+|38
+| data-sort-value="0" |
+| data-sort-value="0" |
+|
+|
+|
+|<font color="red">+43.4</font>
+|884
+|[[Prapor]] LL2<br/>[[Ref]] LL2
+|-
+![[File:74HPICON.png|link=5.45x39mm HP]]
+![[5.45x39mm HP]]
+|76
+|9
+|15
+|<font color="green">+3</font>
+|<font color="green">-3</font>
+|<font color="green">+15</font>
+|<font color="green">+15</font>
+|
+|<font color="red">+41.6</font>
+|884
+|[[Jaeger]] LL1
+|-
+![[File:74PPICON.png|link=5.45x39mm PP gs]]
+![[5.45x39mm PP gs]]
+|51
+|34
+|42
+|<font color="red">-2</font>
+|<font color="red">+3</font>
+|
+|
+|<font color="red">+20</font>
+|<font color="red">+54</font>
+|886
+|[[Ref]] LL2<br/>[[Hideout#Modules|Workbench]] LV2 after [[The Punisher - Part 3]]
+|-
+![[File:7n39icon.png|64px|link=5.45x39mm PPBS gs Igolnik]]
+![[5.45x39mm PPBS gs Igolnik]]
+|37
+|62
+|59
+|<font color="red">-5</font>
+|<font color="red">+15</font>
+|
+|
+|<font color="red">+70</font>
+|<font color="red">+77</font>
+|905
+|Loot only
+|-
+![[File:74PRSICON.png|link=5.45x39mm PRS gs]]
+![[5.45x39mm PRS gs]]
+|70
+|13
+|24
+|data-sort-value="0"|
+|<font color="green">-5</font>
+|
+|
+|<font color="red">+15</font>
+|<font color="red">+50.5</font>
+|866
+|[[Prapor]] LL1
+|-
+![[File:74PSICON.png|link=5.45x39mm PS gs]]
+![[5.45x39mm PS gs]]
+|56
+|28
+|40
+|data-sort-value="0"|
+|data-sort-value="0"|
+|
+|
+|<font color="red">+10</font>
+|<font color="red">+48.7</font>
+|890
+|[[Prapor]] LL2
+|-
+![[File:74SPICON.png|link=5.45x39mm SP]]
+![[5.45x39mm SP]]
+|67
+|15
+|31
+|<font color="green">+5</font>
+|<font color="green">-5</font>
+|<font color="green">+10</font>
+|<font color="green">+10</font>
+|
+|<font color="red">+45.1</font>
+|873
+|[[Skier]] LL1
+|-
+![[File:74TICON.png|link=5.45x39mm T gs]]
+![[5.45x39mm T gs]] '''<sup>T</sup>''' 
+|59
+|20
+|36
+|<font color="red">-3</font>
+|
+|
+|
+|<font color="red">+15</font>
+|<font color="red">+52.2</font>
+|883
+|[[Prapor]] LL2
+|-
+![[File:74USICON.png|link=5.45x39mm US gs]]
+![[5.45x39mm US gs]] '''<sup>S</sup>''' 
+|65
+|17
+|33
+|data-sort-value="0"|
+|<font color="green">-15</font>
+|
+|
+|<font color="green">-20</font>
+|<font color="red">+32.8</font>
+|303
+|[[Prapor]] LL1
+|}
+'''<sup>S</sup> Denotes Round is Subsonic'''<br/>
+'''<sup>T</sup> Denotes Round is a Tracer'''
+
+==Weapons that use it==
+*[[Weapons#Assault carbines|Assault carbines]]
+**[[SAG AK]]
+**[[SAG AK Short]]
+*[[Weapons#Assault rifles|Assault rifles]]
+**[[AK-12]]
+**[[AK-105]]
+**[[AK-74]]
+**[[AK-74M]]
+**[[AK-74N]]
+**[[AKS-74]]
+**[[AKS-74N]]
+**[[AKS-74U]]
+**[[AKS-74UN]]
+**[[AKS-74UB]]
+**[[NL545 DI]]
+**[[NL545 GP]]
+*[[Weapons#Light machine guns|Light machine guns]]
+**[[RPK-16]]
+
+{{Navbox rounds}}
+[[Category:5.45x39mm ammunition‎]]
+
+[[cs:5.45x39mm]]
+[[de:5,45 x 39 mm]]
+[[fr:5,45 x 39 mm]]
+[[ru:5.45x39 мм]]
+[[zh:5.45x39毫米]]
